@@ -1,0 +1,5 @@
+* my-emacs
+my emacs lisp, backup for future missing
+
+* lisp reference
+- list/org-devonthink.el: Thanks for John Wiegley <johnw@gnu.org>, [[https://github.com/jwiegley/dot-emacs/blob/master/lisp/org-devonthink.el][origin]]
